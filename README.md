@@ -29,3 +29,11 @@ go over get, post, put, delete
 ## to run tests
 
     npm run test
+
+### STEPS
+
+- npm init -y
+
+- crate index.js file
+
+- add in package.json in scripts 'start' and 'test'

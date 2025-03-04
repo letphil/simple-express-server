@@ -1,0 +1,30 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "``` this will be simpel express serer to make endpoints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letphil/simple-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/letphil/simple-express-server/issues"
+  },
+  "homepage": "https://github.com/letphil/simple-express-server#readme",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
